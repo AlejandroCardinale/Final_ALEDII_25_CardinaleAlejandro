@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/UsuarioDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/entity/Rol.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/service/AuthService.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/view/LoginView.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/ChapaItemDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/entity/Vehiculo.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/view/MecanicaView.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/config/DB.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/RepuestoDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/JdbcMecanicaItemDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/view/PresupuestosView.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/JdbcPresupuestosDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/VehiculoDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/JdbcRepuestoDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/entity/Usuario.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/view/MenuView.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/MecanicaItemDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/view/ChapaView.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/entity/Repuesto.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/JdbcChapaItemDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/PresupuestosDAO.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/App.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/view/VehiculosView.java</file>
+            <file>file:/D:/jdk-22.0.2/Final_ALEDII_25_Cardinale/src/final_aled2_25/model/dao/JdbcVehiculoDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
